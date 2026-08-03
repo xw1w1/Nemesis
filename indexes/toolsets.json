@@ -1,6 +1,7 @@
 [
     {
         "version": "r01",
+        "toolset_name": "1.0.0",
         "url": "https://github.com/xw1w1/Nemesis/releases/download/r01/Injector.dll.enc"
     }
 ]
